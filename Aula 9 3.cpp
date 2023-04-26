@@ -1,0 +1,1 @@
+// Escrever um programa que leia o salário inicial e faça aumentos sucessivos de 10% até que o valor do salário atualizado seja maior que o dobro do salário inicial.
